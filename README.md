@@ -6,7 +6,7 @@ This repository contains a lot of low-poly works. Download and edit as you pleas
 
 ## Featured Work
 
-![](room1.png?raw=true =250x))
+<img src="room1.png?raw=true" width="250"/>
 
 ![](room2.png?raw=true)
 
